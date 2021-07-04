@@ -1,6 +1,6 @@
 <?php
 
-class SereniPluginUpdater
+class IntagoTeamleaderPluginUpdater
 {
     private $slug; // plugin slug
     private $pluginData; // plugin data
