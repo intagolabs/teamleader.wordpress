@@ -11,7 +11,7 @@ function teamleader_add_admin_settings()
 add_action('admin_menu', 'teamleader_add_admin_settings');
 
 // Show the administrator settings page
-function sereni_admin_settings()
+function teamleader_admin_settings()
 {
     include plugin_dir_path(__FILE__) . 'settings.php';
 }
